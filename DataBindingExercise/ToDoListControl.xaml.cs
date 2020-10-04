@@ -18,6 +18,9 @@ namespace DataBindingExercise
     /// </summary>
     public partial class ToDoListControl : UserControl
     {
+        /// <summary>
+        /// Creates a new ToDoListControl
+        /// </summary>
         public ToDoListControl()
         {
             InitializeComponent();
